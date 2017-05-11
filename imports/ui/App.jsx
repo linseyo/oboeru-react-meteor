@@ -49,7 +49,9 @@ class App extends Component {
      return (
        <div className="container">
          <header>
-           <h1>Todo List ({this.props.incompleteCount})</h1>
+           <h1>おぼえる? </h1>
+           <p>
+             Tasks Left Undone ({this.props.incompleteCount})
 
            <label className="hide-completed">
              <input
@@ -58,8 +60,9 @@ class App extends Component {
                checked={this.state.hideCompleted}
                onClick={this.toggleHideCompleted.bind(this)}
              />
-             Hide Completed Tasks
+            <em>Hide Completed Tasks</em>
            </label>
+         </p>
 
              <form className="new-task" onSubmit={this.handleSubmit.bind(this)} >
                 <input
