@@ -8,8 +8,9 @@ This mini project was done in conjunction with the Meteor - React (Todo App) tut
 
 # Description: 
 "Oboeru" in Japanese means "To remember". I wanted to learn about Meteor.js which is a new Javascript Framework that allows developers to build Full Javascript based apps from the back-end to the front-end. 
-I used this tutorial to learn about Meteor and to also practice on my Javascript skills. 
-I hope to build upon this and make a full fledge app! Currently it is useable. 
+I used this tutorial to learn about Meteor and to also practice my Javascript skills. I was also curious about Mocha as a JS testing framework.  
+I hope to build upon this and make a full fledge app! 
+- Currently it is "useable". 
 
 # Use: 
 
